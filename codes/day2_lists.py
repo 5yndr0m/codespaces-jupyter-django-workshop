@@ -37,3 +37,4 @@ dit1 = {"number" : 2, "brand" : "sofa"}
 print("dictionery : ", dit1)
 print("data type : ", type(dit1))
 print("brand : ", dit1["brand"])
+
